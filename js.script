@@ -1,7 +1,7 @@
 function triangleTracker() {
-var x = parseFloat(prompt("Enter the x of your triangle"));
-var y = parseFloat(prompt("Enter the y of your triangle"));
-var z = parseFloat(prompt("Enter the z of your triangle"));
+var x = parseFloat(prompt("Enter the x value of your triangle"));
+var y = parseFloat(prompt("Enter the y value of your triangle"));
+var z = parseFloat(prompt("Enter the z value of your triangle"));
 if((x === y) &&(y === z))
 {
 alert("equilateral");
