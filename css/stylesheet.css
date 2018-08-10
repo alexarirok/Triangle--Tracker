@@ -17,6 +17,9 @@
   font-family: fantasy;
 
 }
+
+}
+
 .strong {
   font-size: 20px
   font-weight: 400px;
@@ -31,6 +34,10 @@
   font-family: sans-serif;
   margin: 5px 10px 5px 10px;
   padding: 5px, 5px, 5px, 5px;
+}
+.img-container {
+  float: left, center, right;
+  padding: inherit; 
 }
 
 #Main-footer {
