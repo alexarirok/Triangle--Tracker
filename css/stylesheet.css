@@ -27,3 +27,10 @@
   font-family: sans-serif;
 
 }
+#Main-footer {
+  background: mistyrose;
+  color: black;
+  text-align: center;
+  padding: 20px;
+  margin-top: 40px;
+}
