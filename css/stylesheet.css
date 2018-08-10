@@ -1,8 +1,18 @@
+.Head {
+  color: dark black;
+  font-style: oblique;
+  text-align: center;
+  text-decoration: underline;
+
+}
 .introduction {
   font-style:normal;
   background:color;
   background-color: mistyrose;
   font-size: 20px;
   font-weight: 400;
+
+}
+.Properties {
 
 }
